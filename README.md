@@ -6,10 +6,10 @@ python3 main.py
 ´´
  # app projct 
 
- ""sh
+ ""sh  sh 
  git clone 
  cd app
  source name/bin/activate
  pip3 install -r requerimientos.txt
- python3 main.py aja
+ python3 main.py 
  ""
