@@ -11,5 +11,5 @@ python3 main.py
  cd app
  source name/bin/activate
  pip3 install -r requerimientos.txt
- python3 main.py
+ python3 main.py aja
  ""
